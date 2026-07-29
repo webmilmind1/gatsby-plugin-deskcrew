@@ -40,4 +40,5 @@ The plugin uses Gatsby's SSR API to append one deferred script tag to the body o
 
 ## License
 
-MIT. Questions: open an issue or say hi in the chat at [deskcrew.io](https://deskcrew.io).
+MIT. Full setup guide: [Add live chat to Gatsby](https://deskcrew.io/integrations/gatsby).
+Questions: open an issue or say hi in the chat at [deskcrew.io](https://deskcrew.io).
