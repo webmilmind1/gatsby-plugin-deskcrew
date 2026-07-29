@@ -1,0 +1,13 @@
+{
+  "name": "gatsby-plugin-deskcrew",
+  "version": "1.0.0",
+  "description": "Add the DeskCrew support widget to a Gatsby site: live chat, AI answers from your knowledge base, and a help center. Configure in gatsby-config, no component changes.",
+  "keywords": ["gatsby", "gatsby-plugin", "deskcrew", "live chat", "support", "helpdesk", "widget"],
+  "license": "MIT",
+  "homepage": "https://deskcrew.io",
+  "author": { "name": "DeskCrew", "url": "https://deskcrew.io" },
+  "repository": { "type": "git", "url": "git+https://github.com/webmilmind1/gatsby-plugin-deskcrew.git" },
+  "main": "index.js",
+  "files": ["index.js", "gatsby-ssr.js", "README.md", "LICENSE"],
+  "peerDependencies": { "gatsby": ">=3", "react": ">=16" }
+}
